@@ -1,0 +1,28 @@
+# --- Archivos de respaldo y temporales de KiCad ---
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.bak
+*_bak
+*-backups/
+fp-info-cache
+_autosave-*
+
+# --- Archivos de bloqueo y sistema ---
+*.lck
+.DS_Store
+Thumbs.db
+
+# --- Archivos de salida (Generados) ---
+# Descomenta las siguientes líneas si prefieres NO subir archivos de fabricación
+# /gerbers/
+# *.pdf
+# *.drl
+# *.gbr
+
+# --- EXCEPCIONES: Asegurar que las librerías se suban ---
+# Forzamos la inclusión de carpetas de librerías comunes
+!*.pretty/
+!*.kicad_sym
+!*.3dshapes/
+!*.step
+!*.stp
