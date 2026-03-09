@@ -160,7 +160,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 30.48 0)
+				(at -25.4 7.62 0)
 				(length 2.54)
 				(name "QSPI_SS"
 					(effects
@@ -178,7 +178,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 26.67 0)
+				(at -25.4 5.08 0)
 				(length 2.54)
 				(name "QSPI_SD0"
 					(effects
@@ -196,7 +196,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 24.13 0)
+				(at -25.4 2.54 0)
 				(length 2.54)
 				(name "QSPI_SD1"
 					(effects
@@ -214,7 +214,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 21.59 0)
+				(at -25.4 0 0)
 				(length 2.54)
 				(name "QSPI_SD2"
 					(effects
@@ -232,7 +232,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 19.05 0)
+				(at -25.4 -2.54 0)
 				(length 2.54)
 				(name "QSPI_SD3"
 					(effects
@@ -250,7 +250,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 15.24 0)
+				(at -25.4 -5.08 0)
 				(length 2.54)
 				(name "QSPI_SCLK"
 					(effects
@@ -268,7 +268,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 8.89 0)
+				(at -25.4 -26.67 0)
 				(length 2.54)
 				(name "XIN"
 					(effects
@@ -286,7 +286,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 5.08 0)
+				(at -25.4 -30.48 0)
 				(length 2.54)
 				(name "XOUT"
 					(effects
@@ -304,7 +304,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 -1.27 0)
+				(at -25.4 -43.18 0)
 				(length 2.54)
 				(name "RUN"
 					(effects
@@ -322,7 +322,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 -7.62 0)
+				(at -25.4 -55.88 0)
 				(length 2.54)
 				(name "SWCLK"
 					(effects
@@ -340,7 +340,7 @@
 				)
 			)
 			(pin input line
-				(at -25.4 -11.43 0)
+				(at -25.4 -59.69 0)
 				(length 2.54)
 				(name "SWD"
 					(effects
