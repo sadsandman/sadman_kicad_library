@@ -156,7 +156,7 @@
 			(pin bidirectional line
 				(at -19.05 21.59 0)
 				(length 2.54)
-				(name "E"
+				(name "GPIO0"
 					(effects
 						(font
 							(size 1.27 1.27)
